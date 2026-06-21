@@ -1,5 +1,7 @@
 # AI Customer Support Assistant (8-Bit Retro Theme)
 
+### 🔗 Live Demo: [https://ai-customer-support-assistant-gray.vercel.app](https://ai-customer-support-assistant-gray.vercel.app)
+
 An AI-powered customer support platform featuring a highly stylized, blocky **8-bit indie game interface**. This application enables users to authenticate securely, converse with a context-aware AI support chatbot, and manage support ticket workflows in real-time.
 
 ---
